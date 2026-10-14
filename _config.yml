@@ -1,6 +1,8 @@
 url: https://joetorx.github.io
+title: joetorx.github.io
 description: Tech musings and other tales
 author: Joel Torres
+github_profile: https://github.com/joetorx
 
 theme: jekyll-theme-hacker
 plugins:

@@ -7,7 +7,7 @@ layout: default
 <ul>
 {% for project in site.data.projects %}
     <li>
-        <a href="{{ project.url }}">{{ project.name }}</a> - {{ project.description }}
+        <a href="{{ site.github_profile }}/{{ project.repo }}">{{ project.name }}</a> - {{ project.description }}
     </li>
 {% endfor %}
 </ul>
