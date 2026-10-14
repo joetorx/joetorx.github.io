@@ -1,0 +1,4 @@
+_site
+.jekyll-cache
+.ruby-version
+Gemfile.lock
